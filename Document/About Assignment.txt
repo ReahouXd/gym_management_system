@@ -1,0 +1,10 @@
+_ Gym Management System 
+--------------------------
+_ Font 16 
+_ Weight 180 
+_ Height 38 
+
+--------------------------
+_ Username : admin 
+_ Password : 123
+-------------------------
